@@ -3,3 +3,6 @@
 ```
 System.out.println("I am making changes again.")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
